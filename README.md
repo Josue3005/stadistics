@@ -11,11 +11,11 @@ El script está organizado en cuatro bloques principales:
    - Distribución por intervalos de gasto mediante gráfico de barras.
 
 2. **Frecuencia de demoras en plataformas educativas:**
-   - Construcción de tabla de frecuencias ($f_i$, $h_i$, porcentaje, $F_i$, $H_i$).
+   - Construcción de tabla de frecuencias (f_i, h_i, porcentaje, F_i, H_i).
    - Visualización ordenada de la percepción de demoras.
 
 3. **Tiempo estimado de carga de páginas educativas pesadas:**
-   - Limpieza y estandarización de respuestas textuales a segundos ($n = 79$ respuestas numéricas válidas).
+   - Limpieza y estandarización de respuestas textuales a segundos (n = 79 respuestas numéricas válidas).
    - Resumen estadístico, diagrama de caja (*boxplot*), curva de densidad y curva acumulada (ojiva).
 
 4. **Horario con mayor lentitud percibida:**
