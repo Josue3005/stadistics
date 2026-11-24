@@ -1,6 +1,6 @@
 # Análisis Estadístico de Conectividad y Plataformas Educativas en Estudiantes
 
-Este repositorio contiene un script en **R** desarrollado con `tidyverse` para el procesamiento, análisis descriptivo y visualización de datos sobre el gasto en conectividad, frecuencia de demoras, tiempos de carga y horarios de saturación reportados por estudiantes ($n = 88$).
+Este repositorio contiene un script en **R** desarrollado con `tidyverse` para el procesamiento, análisis descriptivo y visualización de datos sobre el gasto en conectividad, frecuencia de demoras, tiempos de carga y horarios de saturación reportados por estudiantes (n = 88).
 
 ## Contenido del Análisis
 
