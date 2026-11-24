@@ -6,12 +6,12 @@ Este repositorio contiene un script en **R** desarrollado con `tidyverse` para e
 
 El script está organizado en cuatro bloques principales:
 
-1. **Gasto mensual en datos y recargas ($S/$):**
+1. **Gasto mensual en datos y recargas (S/):**
    - Cálculo de medidas de tendencia central y dispersión (media, mediana, moda y desviación estándar).
    - Distribución por intervalos de gasto mediante gráfico de barras.
 
 2. **Frecuencia de demoras en plataformas educativas:**
-   - Construcción de tabla de frecuencias (f_i, h_i, porcentaje, F_i, H_i).
+   - Construcción de tabla de frecuencias (fi, hi, porcentaje, Fi, Hi).
    - Visualización ordenada de la percepción de demoras.
 
 3. **Tiempo estimado de carga de páginas educativas pesadas:**
